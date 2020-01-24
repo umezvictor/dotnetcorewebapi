@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CommandsApi\bin\Debug\netcoreapp2.1\CommandsApi.deps.json
+C:\Users\hp\source\repos\CommandsApi\bin\Debug\netcoreapp2.1\CommandsApi.runtimeconfig.json
+C:\Users\hp\source\repos\CommandsApi\bin\Debug\netcoreapp2.1\CommandsApi.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CommandsApi\bin\Debug\netcoreapp2.1\CommandsApi.dll
+C:\Users\hp\source\repos\CommandsApi\bin\Debug\netcoreapp2.1\CommandsApi.pdb
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.AssemblyInfo.cs
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.dll
+C:\Users\hp\source\repos\CommandsApi\obj\Debug\netcoreapp2.1\CommandsApi.pdb
